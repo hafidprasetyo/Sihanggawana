@@ -1,0 +1,50 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.68688216.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_flowbite.6b732ad3.js"
+    ]
+  },
+  "resources/js/appp.js": {
+    "file": "assets/appp.b6d7ecad.js",
+    "src": "resources/js/appp.js",
+    "isEntry": true,
+    "imports": [
+      "_flowbite.6b732ad3.js",
+      "_index.min.2260c03f.js"
+    ]
+  },
+  "resources/js/api.js": {
+    "file": "assets/api.e12c6973.js",
+    "src": "resources/js/api.js",
+    "isEntry": true,
+    "imports": [
+      "_flowbite.6b732ad3.js",
+      "_index.min.2260c03f.js"
+    ]
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin.05850135.js",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_flowbite.6b732ad3.js"
+    ]
+  },
+  "_flowbite.6b732ad3.js": {
+    "file": "assets/flowbite.6b732ad3.js"
+  },
+  "_index.min.2260c03f.js": {
+    "file": "assets/index.min.2260c03f.js",
+    "imports": [
+      "_flowbite.6b732ad3.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.7d0b69fb.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}

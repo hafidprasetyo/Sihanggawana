@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.navbar-fixed {
+    @apply fixed z-50 bg-white shadow-md;
+    backdrop-filter: blur(5px);
+}
